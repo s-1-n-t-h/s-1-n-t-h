@@ -15,9 +15,9 @@
 
 ![Yaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-1-n-t-h&theme=flag-india&show_icons=true&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=s-1-n-t-h&theme=flag-india)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=s-1-n-t-h&theme=flag-india&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-1-n-t-h&layout=compact)](https://github.com/s-1-n-t-h/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-1-n-t-h&theme=flag-india&layout=compact)](https://github.com/s-1-n-t-h/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 
