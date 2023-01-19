@@ -13,7 +13,7 @@
 
 # 📊 GitHub Stats:
 
-![Yaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-1-n-t-h&theme=flag-india&show_icons=true&count_private=true&include_all_commits=true)
+![Yaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-1-n-t-h&theme=flag-india&show_icons=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=s-1-n-t-h&theme=flag-india&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
 
