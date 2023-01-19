@@ -17,6 +17,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=s-1-n-t-h&theme=flag-india&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=s-1-n-t-h1&theme=flag-india)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-1-n-t-h&theme=flag-india&include_all_commits=true&count_private=true&layout=compact)](https://github.com/s-1-n-t-h/github-readme-stats)
 
 ### ✍️ Random Dev Quote
