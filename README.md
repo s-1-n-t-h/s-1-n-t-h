@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
   
 
@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning Flask 🌶️, AWS 🌩️, and Docker 🐳  
   
 
--  💬 Ask me about anything related to  
- 🤖 ML and Data 💿  
+-  💬 Ask me about anything related to 🤖 ML and Data 💿  
   
 
 - ⚡ Fun fact: I watch a lot of Sci-Fi Movies 🎬s  
