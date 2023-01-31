@@ -24,6 +24,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=flag-india)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=s-1-n-t-h&icon=4&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
