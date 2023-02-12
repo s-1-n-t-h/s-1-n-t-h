@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on YouTube Video Sentiment Analyser<br><br>🌱 I’m currently learning Flask 🌶️, AWS 🌩️, and Docker 🐳<br><br>💬 Ask me about anything related to 🤖 ML and Data 💿<br><br>⚡ Fun fact: I watch a lot of Sci-Fi Movies 🎬
+🔭 I’m currently working on Facial Images Recognition using Eigen Faces<br><br>🌱 I’m currently learning Flask 🌶️, AWS 🌩️, and Docker 🐳<br><br>💬 Ask me about anything related to 🤖 ML and Data 💿<br><br>⚡ Fun fact: I watch a lot of Sci-Fi Movies 🎬
 
 
 ## 🌐 Socials:
