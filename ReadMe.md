@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I basically build products out of LangChain 🦜 & OpenAI <br><br>🌱 I’m currently learning Next JS 13 & Typescript <br><br>💬 Ask me about anything related to 🤖 ML and Data 💿<br><br>⚡ Fun fact: I watch a lot of Sci-Fi Movies 🎬
+🔭 I basically build products out of LangChain 🦜 & OpenAI <br><br>🌱 I’m currently learning Next JS & Typescript <br><br>💬 Ask me about anything related to 🤖 ML and Data 💿<br><br>⚡ Fun fact: I watch a lot of Sci-Fi Movies 🎬
 
 
 ## 🌐 Socials:
